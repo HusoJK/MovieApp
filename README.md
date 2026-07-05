@@ -6,7 +6,7 @@ Bu proje, Jetpack Compose ile Android Uygulama Geliştirme eğitimi kapsamında 
 
 ---
 
-## 📱 Özellikler
+## Özellikler
 
 - Film arama ve listeleme
 - Film detay sayfası
